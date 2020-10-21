@@ -23,6 +23,8 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [Python Strings](https://www.w3schools.com/python/python_strings.asp)
 
+[Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
+
 [Python String Formatting](https://www.w3schools.com/python/python_string_formatting.asp)
 
 ## Other resources
