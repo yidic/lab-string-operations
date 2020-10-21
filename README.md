@@ -21,9 +21,15 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## Resources
 
+[Python Strings](https://www.w3schools.com/python/python_strings.asp)
+
+[Python String Formatting](https://www.w3schools.com/python/python_string_formatting.asp)
+
+## Other resources
+
 [The `re` Library](https://docs.python.org/3/library/re.html)
 
-[F-strings](https://www.python.org/dev/peps/pep-0498/)
+[Official documentation F-strings](https://www.python.org/dev/peps/pep-0498/)
 
 [Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
 
